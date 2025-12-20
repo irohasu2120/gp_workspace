@@ -1,0 +1,6 @@
+rootProject.name = 'gp_workspace'
+
+// 基本的にPJ参照はincludeだけあればOK
+include(':gp_asset_app:gp_biz')
+include(':gp_asset_app:gp_web')
+// include('parent_module:child_module')
