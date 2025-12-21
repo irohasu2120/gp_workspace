@@ -1,8 +1,8 @@
 rootProject.name = 'gp_workspace'
 
-// 基本的にPJ参照はincludeだけあればOK
+// 基本的にPJ参照はincludeだけあればOK。順序も気にしなくて良い。
 include(':gp_asset_app:gp_biz')
+include(':gp_asset_app:gp_dao')
 include(':gp_asset_app:gp_web')
 include(':gp_asset_core:gp_core')
 include(':gp_asset_core:gp_framework')
-// include('parent_module:child_module')
