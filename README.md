@@ -5,3 +5,6 @@ SpringBootを使ったgradleマルチプロジェクトのサンプルコード
 https://github.com/irohasu2120/gp_asset_app.git
 https://github.com/irohasu2120/gp_asset_core.git
 ```
+
+参考  
+https://docs.gradle.org/8.14.2/userguide/userguide.html
