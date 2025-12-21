@@ -1,3 +1,4 @@
+SpringBootを使ったgradleマルチプロジェクトのサンプルコード
 
 直下にappとcoreを配置してBuildする想定で作成した。
 ```
