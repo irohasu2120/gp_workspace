@@ -26,9 +26,9 @@ repositories {
 
 dependencies {
 	// PJ参照
-	implementation project(':gp_asset_app:gp_web')
+	project(':gp_asset_app:gp_web')
 }
 
-tasks.named('test') {
-	useJUnitPlatform()
-}
+// test {
+// 	useJUnitPlatform()
+// }
